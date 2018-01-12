@@ -52,7 +52,7 @@ keynoters: [Ben Foxall, Leila Johnston, Krisztián Gergely, Seren Davies, Mark J
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Also featuring</h2>
+        <h2 itemprop="name">Also...</h2>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Remembering JP Stacey</h2>
